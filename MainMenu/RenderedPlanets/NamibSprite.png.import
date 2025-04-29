@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wnnyby16cb6b"
-path="res://.godot/imported/No atmosphere - 834592966 - spritesheet.png-b188851c849588487b990be18a2d8ad2.ctex"
+uid="uid://c376k0eennobf"
+path="res://.godot/imported/NamibSprite.png-c5ca0e9948e29ad7c86d356f63f95783.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/No atmosphere - 834592966 - spritesheet.png"
-dest_files=["res://.godot/imported/No atmosphere - 834592966 - spritesheet.png-b188851c849588487b990be18a2d8ad2.ctex"]
+source_file="res://Assets/MainMenu/RenderedPlanets/NamibSprite.png"
+dest_files=["res://.godot/imported/NamibSprite.png-c5ca0e9948e29ad7c86d356f63f95783.ctex"]
 
 [params]
 

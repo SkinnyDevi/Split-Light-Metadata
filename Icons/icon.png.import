@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c376k0eennobf"
-path="res://.godot/imported/Gas giant 2 - 3684719804 - spritesheet.png-f4d0f521a73062a1ee21a4f6b18d7417.ctex"
+uid="uid://fa8ti372lkxv"
+path="res://.godot/imported/icon.png-9ecc599b6940aa90ca4e52787c2bcc07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/Gas giant 2 - 3684719804 - spritesheet.png"
-dest_files=["res://.godot/imported/Gas giant 2 - 3684719804 - spritesheet.png-f4d0f521a73062a1ee21a4f6b18d7417.ctex"]
+source_file="res://Assets/Icons/icon.png"
+dest_files=["res://.godot/imported/icon.png-9ecc599b6940aa90ca4e52787c2bcc07.ctex"]
 
 [params]
 

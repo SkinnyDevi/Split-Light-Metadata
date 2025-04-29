@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dr4dh5p68ek2x"
-path="res://.godot/imported/Lava World - 9223372036854775807 - spritesheet.png-8819d72f88979373f8ac2a41d820fd94.ctex"
+uid="uid://dwoxiwkxw7s2c"
+path="res://.godot/imported/SomatraSprite.png-4a7cc4ab7edddc54e507a0a749f3fbb9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/Lava World - 9223372036854775807 - spritesheet.png"
-dest_files=["res://.godot/imported/Lava World - 9223372036854775807 - spritesheet.png-8819d72f88979373f8ac2a41d820fd94.ctex"]
+source_file="res://Assets/MainMenu/RenderedPlanets/SomatraSprite.png"
+dest_files=["res://.godot/imported/SomatraSprite.png-4a7cc4ab7edddc54e507a0a749f3fbb9.ctex"]
 
 [params]
 
