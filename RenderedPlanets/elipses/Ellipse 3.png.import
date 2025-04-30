@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dr4dh5p68ek2x"
-path="res://.godot/imported/TaalSprite.png-c5b44aed32052723181b3cc01f8c8fe3.ctex"
+uid="uid://d4bhghhvjlvbb"
+path="res://.godot/imported/Ellipse 3.png-cf1c9c20b77704abf60ea49e80bc4fa7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/TaalSprite.png"
-dest_files=["res://.godot/imported/TaalSprite.png-c5b44aed32052723181b3cc01f8c8fe3.ctex"]
+source_file="res://Assets/RenderedPlanets/elipses/Ellipse 3.png"
+dest_files=["res://.godot/imported/Ellipse 3.png-cf1c9c20b77704abf60ea49e80bc4fa7.ctex"]
 
 [params]
 

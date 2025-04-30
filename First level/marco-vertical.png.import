@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvfhpmng83bhx"
-path="res://.godot/imported/marco-vertical.png-612ef8b3ea7aef397e5f66f150b8828d.ctex"
+path="res://.godot/imported/marco-vertical.png-34306414eed44910fb788ded2f408bcb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/First level/marco-vertical.png"
-dest_files=["res://.godot/imported/marco-vertical.png-612ef8b3ea7aef397e5f66f150b8828d.ctex"]
+source_file="res://Assets/First Level/marco-vertical.png"
+dest_files=["res://.godot/imported/marco-vertical.png-34306414eed44910fb788ded2f408bcb.ctex"]
 
 [params]
 

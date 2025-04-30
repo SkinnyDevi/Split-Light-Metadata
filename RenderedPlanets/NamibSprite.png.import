@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cv0cxccgh5aim"
-path="res://.godot/imported/Ellipse 4.png-5cdf389d9af433182ce40ed878d631c7.ctex"
+uid="uid://c376k0eennobf"
+path="res://.godot/imported/NamibSprite.png-e04083b6f1c94fb123d19159dd6458d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/elipses/Ellipse 4.png"
-dest_files=["res://.godot/imported/Ellipse 4.png-5cdf389d9af433182ce40ed878d631c7.ctex"]
+source_file="res://Assets/RenderedPlanets/NamibSprite.png"
+dest_files=["res://.godot/imported/NamibSprite.png-e04083b6f1c94fb123d19159dd6458d6.ctex"]
 
 [params]
 

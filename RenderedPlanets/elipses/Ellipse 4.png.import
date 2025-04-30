@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d4ke3seabm106"
-path="res://.godot/imported/EarthSprite.png-cafade1ffe371ea494199b6ecf3c87a2.ctex"
+uid="uid://cv0cxccgh5aim"
+path="res://.godot/imported/Ellipse 4.png-f4abae9cd8c8bad3a4759368e829d96a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/EarthSprite.png"
-dest_files=["res://.godot/imported/EarthSprite.png-cafade1ffe371ea494199b6ecf3c87a2.ctex"]
+source_file="res://Assets/RenderedPlanets/elipses/Ellipse 4.png"
+dest_files=["res://.godot/imported/Ellipse 4.png-f4abae9cd8c8bad3a4759368e829d96a.ctex"]
 
 [params]
 

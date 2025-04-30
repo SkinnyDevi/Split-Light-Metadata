@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c376k0eennobf"
-path="res://.godot/imported/NamibSprite.png-c5ca0e9948e29ad7c86d356f63f95783.ctex"
+uid="uid://b6a8ndqcek1o7"
+path="res://.godot/imported/RedGalaxy.png-fcf6b74bc26a14a2cb1e2a865c5ad27b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/NamibSprite.png"
-dest_files=["res://.godot/imported/NamibSprite.png-c5ca0e9948e29ad7c86d356f63f95783.ctex"]
+source_file="res://Assets/RenderedPlanets/RedGalaxy.png"
+dest_files=["res://.godot/imported/RedGalaxy.png-fcf6b74bc26a14a2cb1e2a865c5ad27b.ctex"]
 
 [params]
 

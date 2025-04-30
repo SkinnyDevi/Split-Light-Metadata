@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wnnyby16cb6b"
-path="res://.godot/imported/MalborkSprite.png-1187c23aa5118bff719ce349a3b86a9d.ctex"
+uid="uid://dr4dh5p68ek2x"
+path="res://.godot/imported/TaalSprite.png-42096439aed385b6245ba78494d2572b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/MalborkSprite.png"
-dest_files=["res://.godot/imported/MalborkSprite.png-1187c23aa5118bff719ce349a3b86a9d.ctex"]
+source_file="res://Assets/RenderedPlanets/TaalSprite.png"
+dest_files=["res://.godot/imported/TaalSprite.png-42096439aed385b6245ba78494d2572b.ctex"]
 
 [params]
 
