@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://omte8hj7348p"
-path="res://.godot/imported/Reverend Idle.png-2a6286a4998aa5c5c1ef5331751da5af.ctex"
+uid="uid://7pdc6f14qib7"
+path="res://.godot/imported/Main character Idle.png-53268f6de7fa4d055fd54d59eaad3deb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Reverend/Reverend Idle.png"
-dest_files=["res://.godot/imported/Reverend Idle.png-2a6286a4998aa5c5c1ef5331751da5af.ctex"]
+source_file="res://Assets/Main-Character/Main character Idle.png"
+dest_files=["res://.godot/imported/Main character Idle.png-53268f6de7fa4d055fd54d59eaad3deb.ctex"]
 
 [params]
 
