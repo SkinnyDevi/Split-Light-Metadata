@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv623srpgvhkn"
-path="res://.godot/imported/mesamarron.png-6ec9dccf43fbde84c0b78b9a028fc2bc.ctex"
+path="res://.godot/imported/mesamarron.png-6ca94288e558e43f888c58e9e0fbeb3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/First level/mesamarron.png"
-dest_files=["res://.godot/imported/mesamarron.png-6ec9dccf43fbde84c0b78b9a028fc2bc.ctex"]
+source_file="res://Assets/First Level/mesamarron.png"
+dest_files=["res://.godot/imported/mesamarron.png-6ca94288e558e43f888c58e9e0fbeb3c.ctex"]
 
 [params]
 
