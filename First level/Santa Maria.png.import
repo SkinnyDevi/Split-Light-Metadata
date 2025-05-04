@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b00cgm2f8lc8l"
-path="res://.godot/imported/Santa Maria.png-ba527af95236d812ab8d3f5889df0800.ctex"
+path="res://.godot/imported/Santa Maria.png-3adc6bd2d486bd93d8c3276e0a045ff7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/First level/Santa Maria.png"
-dest_files=["res://.godot/imported/Santa Maria.png-ba527af95236d812ab8d3f5889df0800.ctex"]
+source_file="res://Assets/First Level/Santa Maria.png"
+dest_files=["res://.godot/imported/Santa Maria.png-3adc6bd2d486bd93d8c3276e0a045ff7.ctex"]
 
 [params]
 

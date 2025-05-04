@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bf0yyj3vj55rs"
-path="res://.godot/imported/Galaxy - 3586005132 - white - spritesheet.png-310d0cf5cf0d045a9ba818a5ead2acfb.ctex"
+uid="uid://fa8ti372lkxv"
+path="res://.godot/imported/icon.png-9ecc599b6940aa90ca4e52787c2bcc07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/Galaxy - 3586005132 - white - spritesheet.png"
-dest_files=["res://.godot/imported/Galaxy - 3586005132 - white - spritesheet.png-310d0cf5cf0d045a9ba818a5ead2acfb.ctex"]
+source_file="res://Assets/Icons/icon.png"
+dest_files=["res://.godot/imported/icon.png-9ecc599b6940aa90ca4e52787c2bcc07.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwoxiwkxw7s2c"
-path="res://.godot/imported/2035508050.png-d217163c4b14063469a242857e54018a.ctex"
+uid="uid://cy6bsbmv5c5e"
+path="res://.godot/imported/Reverend Jump.png-0b88e6ac05a760d802af74afe483ac8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/2035508050.png"
-dest_files=["res://.godot/imported/2035508050.png-d217163c4b14063469a242857e54018a.ctex"]
+source_file="res://Assets/Reverend/Reverend Jump.png"
+dest_files=["res://.godot/imported/Reverend Jump.png-0b88e6ac05a760d802af74afe483ac8f.ctex"]
 
 [params]
 

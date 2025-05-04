@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8ljj14e4vu2h"
-path="res://.godot/imported/options.png-91e39fe1a0e814c76a8f0c1d78834774.ctex"
+uid="uid://dwoxiwkxw7s2c"
+path="res://.godot/imported/SomatraSprite.png-a88fe650820ddd6fe8aceebab13784e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/MainMenu/RenderedPlanets/elipses/options.png"
-dest_files=["res://.godot/imported/options.png-91e39fe1a0e814c76a8f0c1d78834774.ctex"]
+source_file="res://Assets/RenderedPlanets/SomatraSprite.png"
+dest_files=["res://.godot/imported/SomatraSprite.png-a88fe650820ddd6fe8aceebab13784e1.ctex"]
 
 [params]
 
