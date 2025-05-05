@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bkk1qyal1cy2p"
-path="res://.godot/imported/try9.png-5102ed3d86ab2c114203d5dd37042176.ctex"
+uid="uid://bt4ir15cxrjdw"
+path="res://.godot/imported/Main character Jump.png-d6763f55716c57146aff70c49d91ddc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Reverend/scenes_main_character/try9.png"
-dest_files=["res://.godot/imported/try9.png-5102ed3d86ab2c114203d5dd37042176.ctex"]
+source_file="res://Assets/MainCharacter/Main character Jump.png"
+dest_files=["res://.godot/imported/Main character Jump.png-d6763f55716c57146aff70c49d91ddc8.ctex"]
 
 [params]
 
