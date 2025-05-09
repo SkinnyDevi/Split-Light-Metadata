@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://71ktsnkeau6"
-path="res://.godot/imported/Abot Death.png-165cecec44e8079da0d44a13a5ee4e34.ctex"
+uid="uid://cwklh45toocwq"
+path="res://.godot/imported/Aaliyah Idle.png-7944a8037c84bbbaef587caf3dfbb306.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Abot/Abot Death.png"
-dest_files=["res://.godot/imported/Abot Death.png-165cecec44e8079da0d44a13a5ee4e34.ctex"]
+source_file="res://Assets/Characters/Aaliyah/Aaliyah Idle.png"
+dest_files=["res://.godot/imported/Aaliyah Idle.png-7944a8037c84bbbaef587caf3dfbb306.ctex"]
 
 [params]
 

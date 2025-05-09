@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bt4ir15cxrjdw"
-path="res://.godot/imported/Abot Jump.png-5784628d4d00338a9cc31131d74f2202.ctex"
+uid="uid://box1qdfq2ar46"
+path="res://.godot/imported/Abot Idle.png-ecfb94006f69ae4ee5909143aed15e76.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Abot/Abot Jump.png"
-dest_files=["res://.godot/imported/Abot Jump.png-5784628d4d00338a9cc31131d74f2202.ctex"]
+source_file="res://Assets/Characters/Abot/Abot Idle.png"
+dest_files=["res://.godot/imported/Abot Idle.png-ecfb94006f69ae4ee5909143aed15e76.ctex"]
 
 [params]
 

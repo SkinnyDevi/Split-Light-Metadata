@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cy6bsbmv5c5e"
-path="res://.godot/imported/Reverend Jump.png-0b88e6ac05a760d802af74afe483ac8f.ctex"
+uid="uid://bgxuw12fwryag"
+path="res://.godot/imported/Abot Hurt.png-86a79a6feb69629213d0f771a76680e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Reverend/Reverend Jump.png"
-dest_files=["res://.godot/imported/Reverend Jump.png-0b88e6ac05a760d802af74afe483ac8f.ctex"]
+source_file="res://Assets/Characters/Abot/Abot Hurt.png"
+dest_files=["res://.godot/imported/Abot Hurt.png-86a79a6feb69629213d0f771a76680e0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5h7qo116lbey"
-path="res://.godot/imported/Abot Run.png-071417819e4469eb6c360a7e794f713d.ctex"
+path="res://.godot/imported/Abot Run.png-c0c2704331c6dfef36967d678ae04de1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Abot/Abot Run.png"
-dest_files=["res://.godot/imported/Abot Run.png-071417819e4469eb6c360a7e794f713d.ctex"]
+source_file="res://Assets/Characters/Abot/Abot Run.png"
+dest_files=["res://.godot/imported/Abot Run.png-c0c2704331c6dfef36967d678ae04de1.ctex"]
 
 [params]
 
