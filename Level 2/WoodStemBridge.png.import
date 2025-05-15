@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bjqltx711aotd"
-path="res://.godot/imported/Aaliyah Idle.png-7944a8037c84bbbaef587caf3dfbb306.ctex"
+uid="uid://dpkm84fdfyeic"
+path="res://.godot/imported/WoodStemBridge.png-02dd4845d5be0ee76360d9e515e81c4d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Aaliyah/Aaliyah Idle.png"
-dest_files=["res://.godot/imported/Aaliyah Idle.png-7944a8037c84bbbaef587caf3dfbb306.ctex"]
+source_file="res://Assets/Level 2/WoodStemBridge.png"
+dest_files=["res://.godot/imported/WoodStemBridge.png-02dd4845d5be0ee76360d9e515e81c4d.ctex"]
 
 [params]
 

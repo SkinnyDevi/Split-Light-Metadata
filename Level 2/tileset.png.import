@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bjqltx711aotd"
-path="res://.godot/imported/Aaliyah Idle.png-7944a8037c84bbbaef587caf3dfbb306.ctex"
+uid="uid://cs0kn3e2esglr"
+path="res://.godot/imported/tileset.png-1dc0d2010884b8d412c89c9a71713d23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Characters/Aaliyah/Aaliyah Idle.png"
-dest_files=["res://.godot/imported/Aaliyah Idle.png-7944a8037c84bbbaef587caf3dfbb306.ctex"]
+source_file="res://Assets/Level 2/tileset.png"
+dest_files=["res://.godot/imported/tileset.png-1dc0d2010884b8d412c89c9a71713d23.ctex"]
 
 [params]
 
