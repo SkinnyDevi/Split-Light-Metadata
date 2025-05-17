@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnb2dvmq3uiuk"
-path="res://.godot/imported/Lever_Right.png-ba35b4e76a35678e2cb213dc2566ff77.ctex"
+uid="uid://b5x638ie822go"
+path="res://.godot/imported/candado.png-e0c40d0e667229f556b2b5e7a3c2e31b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Level 2/Lever_Right.png"
-dest_files=["res://.godot/imported/Lever_Right.png-ba35b4e76a35678e2cb213dc2566ff77.ctex"]
+source_file="res://Assets/Level 2/candado.png"
+dest_files=["res://.godot/imported/candado.png-e0c40d0e667229f556b2b5e7a3c2e31b.ctex"]
 
 [params]
 

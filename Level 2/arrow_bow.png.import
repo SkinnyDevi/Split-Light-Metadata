@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnb2dvmq3uiuk"
-path="res://.godot/imported/Lever_Right.png-ba35b4e76a35678e2cb213dc2566ff77.ctex"
+uid="uid://cfloppklfc234"
+path="res://.godot/imported/arrow_bow.png-670f41ccc6931b40049951bdb63405d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Level 2/Lever_Right.png"
-dest_files=["res://.godot/imported/Lever_Right.png-ba35b4e76a35678e2cb213dc2566ff77.ctex"]
+source_file="res://Assets/Level 2/arrow_bow.png"
+dest_files=["res://.godot/imported/arrow_bow.png-670f41ccc6931b40049951bdb63405d8.ctex"]
 
 [params]
 
