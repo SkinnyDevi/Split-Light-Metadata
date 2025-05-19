@@ -1,1 +1,4 @@
 # Specific file blacklist
+
+.DS_Store
+*.DS_Store
